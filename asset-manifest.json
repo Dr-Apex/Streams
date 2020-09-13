@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Dr-Apex/Seasons/static/js/main.e2c27685.chunk.js",
+    "main.js.map": "/Dr-Apex/Seasons/static/js/main.e2c27685.chunk.js.map",
+    "runtime-main.js": "/Dr-Apex/Seasons/static/js/runtime-main.cc10fc4c.js",
+    "runtime-main.js.map": "/Dr-Apex/Seasons/static/js/runtime-main.cc10fc4c.js.map",
+    "static/js/2.fb17c06f.chunk.js": "/Dr-Apex/Seasons/static/js/2.fb17c06f.chunk.js",
+    "static/js/2.fb17c06f.chunk.js.map": "/Dr-Apex/Seasons/static/js/2.fb17c06f.chunk.js.map",
+    "index.html": "/Dr-Apex/Seasons/index.html",
+    "precache-manifest.521d6df2e1ebb66fc8e0ab3d9ad5176f.js": "/Dr-Apex/Seasons/precache-manifest.521d6df2e1ebb66fc8e0ab3d9ad5176f.js",
+    "service-worker.js": "/Dr-Apex/Seasons/service-worker.js",
+    "static/js/2.fb17c06f.chunk.js.LICENSE.txt": "/Dr-Apex/Seasons/static/js/2.fb17c06f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc10fc4c.js",
+    "static/js/2.fb17c06f.chunk.js",
+    "static/js/main.e2c27685.chunk.js"
+  ]
+}
